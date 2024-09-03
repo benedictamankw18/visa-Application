@@ -1,0 +1,12 @@
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Real Estate App.exe.config
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Real Estate App.exe
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Real Estate App.pdb
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Real Estate App.xml
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real Estate App.vbprojResolveAssemblyReference.cache
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real_Estate_App.User_Login.resources
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real_Estate_App.Resources.resources
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real Estate App.vbproj.GenerateResource.Cache
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real Estate App.vbproj.CoreCompileInputs.cache
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real Estate App.exe
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real Estate App.xml
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Real Estate App.pdb

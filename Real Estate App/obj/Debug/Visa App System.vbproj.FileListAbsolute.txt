@@ -1,0 +1,14 @@
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Visa App System.exe.config
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Visa App System.exe
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Visa App System.pdb
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Visa App System.xml
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\bin\Debug\Guna.UI2.dll
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa App System.vbprojResolveAssemblyReference.cache
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa_App_System.User_Login.resources
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa_App_System.Resources.resources
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa App System.vbproj.GenerateResource.Cache
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa App System.vbproj.CoreCompileInputs.cache
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa App System.exe
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa App System.xml
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa App System.pdb
+C:\Users\HP TOUCHSCREEN\source\repos\Real Estate App\Real Estate App\obj\Debug\Visa_App_System.SplashScreen.resources
